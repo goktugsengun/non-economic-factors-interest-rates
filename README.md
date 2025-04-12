@@ -4,9 +4,9 @@ This repository contains an RMarkdown file that analyzes the influence of non-ec
 Repository Structure
 non-economic-factors-on-interest-rates.Rmd: This is the main RMarkdown file that contains the full analysis, code, and visualizations.
 
-data/: Directory containing any datasets used for analysis. (is not applicable.)
-
-images/: Directory for images or plots generated during the analysis (is not applicable).
+DATA: The “Census Tract File” contains mortgage-level data on all single-family (1-4 unit) properties.
+Note: Fields are separated by one blank space. Beginning with the 2018 release, additional fields 40-57 are sourced from FHFA and based on available Enterprise data unless
+otherwise indicated, as described in 85 Fed. Reg. 34196 (June 3, 2020), see https://www.govinfo.gov/content/pkg/FR-2020-06-03/pdf/2020-11819.pdf.
 
 Required Packages
 To run this analysis, you'll need the following R packages. If you don't have them installed, you can do so by running the following command in your R console:
