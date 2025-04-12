@@ -4,9 +4,9 @@ This repository contains an RMarkdown file that analyzes the influence of non-ec
 Repository Structure
 non-economic-factors-on-interest-rates.Rmd: This is the main RMarkdown file that contains the full analysis, code, and visualizations.
 
-data/: Directory containing any datasets used for analysis (if applicable).
+data/: Directory containing any datasets used for analysis. (is not applicable.)
 
-images/: Directory for images or plots generated during the analysis (if applicable).
+images/: Directory for images or plots generated during the analysis (is not applicable).
 
 Required Packages
 To run this analysis, you'll need the following R packages. If you don't have them installed, you can do so by running the following command in your R console:
